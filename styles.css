@@ -1,0 +1,36 @@
+
+body{
+
+
+
+
+    background-image: url("download.jfif");
+    background-color: #cccccc;
+
+}
+
+
+
+
+h3 {
+  color:#1EAE98;
+
+}
+h1 {
+  color:#AF0404;
+
+}
+
+
+
+hr{
+  background-color:none;
+  border-style:none ;
+
+
+  border-bottom-style:dotted;
+  border-color:grey;
+  border-width:6px;
+
+   width:30%;
+}
